@@ -1,0 +1,5 @@
+CREATE DATABASE CoffeeShopDB;
+GO
+
+USE CoffeeShopDB;
+GO
